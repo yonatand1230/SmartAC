@@ -1,3 +1,7 @@
+# Sensitive Auto-Generated DB 
+database.json
+database.previous.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
